@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>diffcult ^-^</title>
+      <title>在线资源</title>
       <link href="/2021/08/10/diffcult/"/>
       <url>/2021/08/10/diffcult/</url>
       
-        <content type="html"><![CDATA[<ul><li>任何足够先进的技术都等同于魔术 - 亚瑟·克拉克</li><li>state-of-the-art algorithms</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ import numpy</span><br><span class="line">$ print &quot;It is python code!&quot;</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th>subject</th><th>site</th><th>intro</th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> Tools </tag>
+            
+        </tags>
       
     </entry>
     
